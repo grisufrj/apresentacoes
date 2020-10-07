@@ -1,0 +1,215 @@
+# Links Uteis para começar a estudar segurança.
+- Pagina do GRIS: https://www.facebook.com/grisdccufrj/
+- Links :
+	- Web: 
+		- Owasp cheat sheet --> https://cheatsheetseries.owasp.org/ (material)
+		- Portswigger academy --> https://portswigger.net/web-security (labs e material)
+		- Hackitivity --> https://hackerone.com/hacktivity (Writeups/reports de bounties)
+		- Site Security Handbook --> https://tools.ietf.org/html/rfc2196 
+			
+	- Labs:
+    	- https://www.hackthebox.eu/  --> sit de desafios e maquinas
+    	- https://tryhackme.com/  --> site de desafios e maquinas
+		- https://github.com/kaiiyer/awesome-vulnerable --> Lista com labs 
+		- https://www.vulnhub.com/ --> maquinas virtuais para simular Laboratórios 	
+		- https://owasp.org/www-project-webgoat/ --> Laboratório de vulnerabilidades web
+		- http://www.dvwa.co.uk/ --> Laboratório de vulnerabilidades web
+		- https://owasp.org/www-project-juice-shop/ --> Laboratório de vulnerabilidades web
+		- https://xss-game.appspot.com/ --> Desafios de XSS 
+		- https://xss.pwnfunction.com/ --> Desafios de XSS 
+		- https://ctf.hacker101.com/ --> Ctf da hacker one
+		
+	- Crypto:
+		- https://cryptopals.com/
+		- https://cryptohack.org/
+    - Pwning/Rev
+		- https://github.com/RPISEC/MBE
+		- Jump Over ASLR --> http://www.cs.ucr.edu/~nael/pubs/micro16.pdf
+		- Memory --> https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+		- http://phrack.org/issues/49/14.html
+		- https://exploit-exercises.lains.space/protostar/
+		- https://pwnable.xyz/
+	- CPU
+    	- Flush+Reload --> https://eprint.iacr.org/2013/448.pdf
+        - Spectre -->  https://spectreattack.com/spectre.pdf
+        - Meltdown -->  https://meltdownattack.com/meltdown.pdf
+        - RIDL -->  https://mdsattacks.com/files/ridl.pdf
+        - RowHammer --> https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf
+
+	- Hardware
+	    - Tools 
+    	    - Kit de solda 
+    	    - Multímetro 
+        	- Osciloscópio 
+			- Buspirate
+        	- raspberry
+        	- ESP32
+        	- Arduino
+        	- Proxmark
+        	- SDR
+    	-  LockPicking
+            - https://github.com/fabacab/awesome-lockpicking
+			- Multi Sobrevivente --> https://www.youtube.com/channel/UCsXQsFkx_DpAyj5wcdt0NEg
+			- Lock Noob --> https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A ( Lockping ) 
+        	- LockPickingLawyer --> https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ ( Lockping ) 
+          	- Bosnianbill -->  https://www.youtube.com/user/bosnianbill ( Lockping )
+      	- Nfc  	
+    		- nfc-tools
+          	- mfcuk
+          	- mfoc
+          	- mifare classic tool
+			
+	- Pentest/Redteam
+    	- https://github.com/enaqx/awesome-pentest
+   
+	- CTF:
+		- https://ctftime.org/ 
+		- https://ctf-br.org/
+		 
+    - Livros
+      -  Web Application Hacker handbook
+      -  Tangled web  
+			
+	- Tools e Tecnologias interessantes para estudar:
+		-  Network:
+			- Wireshark
+			- nmap
+			- netcat
+			- ss
+			- ngrok
+			- turner
+			- subfinder
+        	- rustscan
+        	- massscan
+		-  Web
+			- burpsuite 
+			- ZaProxy
+			- Ffuf
+			- gobuster
+			- dirb
+			- sqlmap
+			- nosqlmap
+			- gopherus
+			- wappalyzer
+        	- wafw00f
+        	- whatwaf
+        	- wpscan
+		-  Rev/Pwn:
+			- pwntools
+			- ghidra
+			- idapro
+			- gdb
+			- radare2
+			- x64dbg
+			- binwalk
+			- ollydbg
+			- immunity debbuger
+			- angr
+		-  Mobile:
+			- frida
+			- apktool
+			- android-sdk
+			- dex2jar
+			- android studio
+    	- OSINT:
+        	- Google Dorking
+        	- Shodan
+        	- maltego
+        	- thehaverter
+        	- haveibeenpwnd
+        	- recon-ng
+        	- censys  
+      	- Pentest/Redteam
+        	- Linux
+    			- linenum
+              	- linpeas
+              	- postenum
+              	- unix-privesc-check
+              	- gtfobins
+        	- Geral
+               - searchsploit
+               - metasploit
+               - Tor
+               - Tails
+            - WifiHacking
+               - wifite
+               - aircrack-ng
+               - fluxion/airset
+               - (b)ettercap
+               - bully
+               - reaver
+            - HashCracking/bruteforce/wordlist:
+               - CeWl
+               - hashcat
+               - johntheripper
+               - hash-identifier
+               - https://github.com/danielmiessler/SecLists
+            - Scanners:
+               - Nessus
+               - openvas
+               - nikto
+               - sqlmate
+               - wpscan
+               - w3af 
+		- Infraeestrutura
+    		- Docker
+    		- Kubernetes
+    		- Ansible/Terraform
+  		- Forensis:
+          - exiftools
+          - steghide
+          - stegsolve
+          - foremost
+          - peepdf
+          - volatility     
+
+	- Canais no youtube:
+		- PT-BR :
+			- Fernando merces --> https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg ( papos com profissionais experientes/cursos/tutoriais... relacionados a seguranca ) 
+			- Gabriel Pato --> https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ ( Videos sobre segurança da informação em geral com foco em bounties e web )
+    		- Keerok --> https://www.youtube.com/channel/UCWVBYWTwE05Ou6q-oOnNbyg ( writeups e tutoriais de web security )
+    		- Manoelt --> https://www.youtube.com/channel/UCqDLY9WFoJWqrhycW8cbv1Q ( conversas sobre bugbounty e writeups )
+    		- Daniel donda --> https://www.youtube.com/user/DanielDonda ( Fala sobre segurança em geral, certificacoes, gestao, lgpd, carreira ... )
+    		- Ricardo longato --> https://www.youtube.com/user/ricardolongatto ( cursos e tutoriais de segurança ofensiva em geral como foco em pentest )
+    		- Guia anonima --> https://www.youtube.com/user/adsecf ( Entrevista, tutoriais ...)
+    		- H2HC --> https://www.youtube.com/user/h2hconference ( Palestras )
+    		- Roadsec --> https://www.youtube.com/channel/UCxHzA-Z97sjfK3OISjkbMCQ ( Palestras )
+    		- IMEsec Talks --> https://www.youtube.com/channel/UC3OaXLRJXxIXlqVhcONRLRg ( Entrevistas )
+    		- SecurityCast --> https://www.youtube.com/channel/UCTEAZTTJ69yatuMd70k2Wow ( Palestras )
+    		- Xtreme Security --> https://www.youtube.com/channel/UCLgDp8GwcUItwUf-ScLLiMA ( Palestras )
+    		- Ganesh USP --> https://www.youtube.com/channel/UCBZ33VxtjFW-FeYOhKI3_Lw ( Tutoriais e cursos ) 
+    		- Diolinux --> https://www.youtube.com/user/Diolinux ( Sobre linux, tecnologia ...) 
+    		- Código Fonte TV --> https://www.youtube.com/user/codigofontetv ( Programacao, termos de ti ...)
+    		- LINUXtips --> https://www.youtube.com/user/linuxtipscanal ( DevSecOps, infra as a code, linux, sysadmin... )
+    		- Linux 4Fasters --> https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g ( certificações linux, sysadmin...)
+    		- Filipe Deschamps --> https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw ( Programação, carreira ... )
+    		- Universo Programado --> https://www.youtube.com/c/UniversoProgramado/ ( Programação, Ml )
+    		- Peixe Babel --> https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw ( Ml )
+    		- Papo de SysAdmin --> https://www.youtube.com/channel/UCaBckZSXp7bE92yMlaQTlww ( sysadmin ,lgpd, carreira )
+    		- Terminal Root --> https://www.youtube.com/channel/UCqd9oVuR4tuKD5Y9AFwxz7Q ( Linux )
+    		- Pagar me Talks --> https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw ( Palestras )
+    		- WRKits --> https://www.youtube.com/user/canalwrkits ( Eletrônica )
+    		- Eletrônica Fácil --> https://www.youtube.com/channel/UC6yeSnpMzKXHbxuEVmcvmhw ( Eletrônica ) 
+    		- Eletrônica Já ! --> https://www.youtube.com/channel/UCTOlzuZJ8U3yyGYspDl8ZOA ( Eletrônica )
+    		- Dan Maker --> https://www.youtube.com/c/DanMaker01/featured ( IoT e hardware hacking... ) 
+    	- EN:
+    		- Liveoverflow --> https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w ( tutoriais e cursos )
+    		- IppSec --> https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA ( Writeups e ctfs )
+    		- Pwnfunction --> https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A ( Web Security )
+    		- Gynvael --> https://www.youtube.com/user/GynvaelEN ( Writeups e ctfs )
+    		- John Hammond --> https://www.youtube.com/user/RootOfTheNull ( Writeups e ctfs )
+    		- cybermentor --> https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ( Carreira, seguranca ofensiva )
+    		- Stok --> https://www.youtube.com/watch?v=CU9Iafc-Igs ( Bugbounty )
+    		- Nahamasec --> https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw ( Bugbounty )
+    		- InsiderPhD --> https://www.youtube.com/c/InsiderPhD/featured ( Bugbounty )
+    		- Reconless  --> https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ ( Bugbounty )
+    		- Farah Hawa --> https://www.youtube.com/c/FarahHawa/videos ( Bugbounty )
+    		- defcon --> https://www.youtube.com/user/DEFCONConference ( Palestras ) 
+    		- blackhat --> https://www.youtube.com/user/BlackHatOfficialYT ( Palestras )
+    		- hak5 --> https://www.youtube.com/user/Hak5Darren ( Notícias, Tutoriais, ferramentas )
+    		- Guided Hacking --> https://www.youtube.com/channel/UCCMi6F5Ac3kQDfffWXQGZDw ( Game hacking, Writeups, Segurança ofensiva )
+    		- HackerOne --> https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw ( Tutoriais e Entrevistas )
+    		- Bug Bounty Reports Explained --> https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g ( Bugbounty )
+    		- NetworkChuck --> https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ ( Redes , DevSecOps, Carreira...)
+    		- Andreas Spiess --> https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ ( Eletronica, IoT )
+    		- Greatscott --> https://www.youtube.com/user/greatscottlab ( Eletronica )
