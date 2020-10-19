@@ -50,9 +50,9 @@
     	-  LockPicking
             - https://github.com/fabacab/awesome-lockpicking
 			- Multi Sobrevivente --> https://www.youtube.com/channel/UCsXQsFkx_DpAyj5wcdt0NEg
-			- Lock Noob --> https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A ( Lockping ) 
-        	- LockPickingLawyer --> https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ ( Lockping ) 
-          	- Bosnianbill -->  https://www.youtube.com/user/bosnianbill ( Lockping )
+			- Lock Noob --> https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A ( lockpicking ) 
+        	- LockPickingLawyer --> https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ ( lockpicking ) 
+          	- Bosnianbill -->  https://www.youtube.com/user/bosnianbill ( lockpicking )
       	- Nfc  	
     		- nfc-tools
           	- mfcuk
